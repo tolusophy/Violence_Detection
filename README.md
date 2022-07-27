@@ -10,7 +10,7 @@ This repository introduces Salient Image, a method for Violence and Weaponized V
   - EfficientNetB0
   - InceptionV3
   
-  1. For the paper, download from here
+  1. For the paper, download from [here](https://arxiv.org/abs/2207.12850)
   2. For the dataset, download from [here](www.kaggle.com/dataset/75806dc0d1bc0fccd0cedaf117979ffa2f2ae5c3c7af3cdd78b9f4cc14d96013)
   
   Also, if you use this repository or dataset, make sure to cite "to be added"
@@ -67,3 +67,5 @@ conda env create -f env.yml
 
 ## TRAINING
 In the ```models``` folder, there are different notebooks using different DCNN architectures. Choose whichever fits your purpose, or create a new one and follow the models examples.
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/towards-smart-city-security-violence-and/violence-and-weaponized-violence-detection-on)](https://paperswithcode.com/sota/violence-and-weaponized-violence-detection-on?p=towards-smart-city-security-violence-and)
