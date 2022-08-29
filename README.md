@@ -48,7 +48,11 @@ Our results for the 3 x 2 and 5 x 3 salient arrangements are as follows:
 **Evaluating our trained models on a CCTV video using VGG16_3x2, Inception_3x2, DenseNet_5x3:**
 
 
-<img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Result/VGG16_3_2_output.gif" width="270"> <img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Result/Inception_3_2_output.gif" width="270"> <img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Result/Densenet_5_3_output%20.gif" width="270">
+<img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Result/VGG16_3_2_output.gif" width="810">
+
+<img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Result/Inception_3_2_output.gif" width="810">
+
+<img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Result/Densenet_5_3_output%20.gif" width="810">
 
 # USAGE
 ## ENVIRONMENT SETUP
