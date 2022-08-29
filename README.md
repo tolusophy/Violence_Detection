@@ -62,7 +62,7 @@ conda env create -f env.yml
 ```
 
 ## PREPROCESSING
-1. Use the ```dataUtils.save_to_frame``` to extract frames from the video dataset. If you want to use the SCVD dataset, download from here
+1. Use the ```dataUtils.save_to_frame``` to extract frames from the video dataset. If you want to use the SCVD dataset, download from [here](www.kaggle.com/dataset/75806dc0d1bc0fccd0cedaf117979ffa2f2ae5c3c7af3cdd78b9f4cc14d96013)
 2. Use the ```dataUtils.merge_frames``` to apply your selected configuration of the SALIENT IMAGE
 
 ## TRAINING
