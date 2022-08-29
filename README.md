@@ -13,7 +13,7 @@ This repository introduces Salient Image, a method for Violence and Weaponized V
   1. For the paper, download from [here](https://arxiv.org/abs/2207.12850)
   2. For the dataset, download from [here](www.kaggle.com/dataset/75806dc0d1bc0fccd0cedaf117979ffa2f2ae5c3c7af3cdd78b9f4cc14d96013)
   
-  Also, if you use this repository or dataset, make sure to cite "to be added"
+  Also, if you use this repository or dataset, please make sure to cite our paper. Thank you.
   
 # RESULTS
 Our results for the 3 x 2 and 5 x 3 salient arrangements are as follows:
