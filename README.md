@@ -36,11 +36,11 @@ Our results for the 3 x 2 and 5 x 3 salient arrangements are as follows:
 
 **3 x 2**
 
-<img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Grad-CAM%20output/densenet121_3x2.jpg" width="195">  <img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Grad-CAM%20output/efficientnet_3x2.jpg" width="195">  <img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Grad-CAM%20output/inception_3x2.jpg" width="195">  <img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Grad-CAM%20output/resnet50_3x2.jpg" width="195">  <img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Grad-CAM%20output/vgg16_3x2.jpg" width="195">
+<img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Grad-CAM%20output/densenet121_3x2.jpg" width="190">  <img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Grad-CAM%20output/efficientnet_3x2.jpg" width="190">  <img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Grad-CAM%20output/inception_3x2.jpg" width="190">  <img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Grad-CAM%20output/resnet50_3x2.jpg" width="190">  <img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Grad-CAM%20output/vgg16_3x2.jpg" width="190">
 
 **5 x 3**
 
-<img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Grad-CAM%20output/densenet121_5x3.jpg" width="195">  <img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Grad-CAM%20output/efficientnet_5x3.jpg" width="195">  <img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Grad-CAM%20output/inception_5x3.jpg" width="195">  <img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Grad-CAM%20output/resnet50_5x3.jpg" width="195">  <img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Grad-CAM%20output/vgg16_5x3.jpg" width="195">
+<img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Grad-CAM%20output/densenet121_5x3.jpg" width="190">  <img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Grad-CAM%20output/efficientnet_5x3.jpg" width="190">  <img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Grad-CAM%20output/inception_5x3.jpg" width="190">  <img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Grad-CAM%20output/resnet50_5x3.jpg" width="190">  <img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Grad-CAM%20output/vgg16_5x3.jpg" width="190">
 
 
 ## VIDEO EVALUATION
