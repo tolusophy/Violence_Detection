@@ -1,4 +1,4 @@
-# VIOLENCE AND WEAPONIZED VIOLENCE DETECTION
+# Any Object is a Potential Weapon! Weaponized Violence Detection using Image Classifiers
 
 # INTRODUCTION
 This repository introduces Salient Image, a method for Violence and Weaponized Violence Detection from Smart Surveillance Systems (CCTV). The following algorithms were employed for training and inference on the 5 by 3 and 3 by 2 versions of the Salient Image:
