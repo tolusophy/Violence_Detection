@@ -19,7 +19,7 @@ This repository introduces Salient Image, a method for Violence and Weaponized V
           doi = {10.48550/ARXIV.2207.12850},
           url = {https://arxiv.org/abs/2207.12850},
           author = {Aremu, Toluwani and Zhiyuan, Li and Alameeri, Reem},
-          title = {Towards Smart City Security: Violence and Weaponized Violence Detection using DCNN},
+          title = {Any Object is a Potential Weapon! Weaponized Violence Detection using Salient Image },
           publisher = {arXiv},
           year = {2022},
           copyright = {Creative Commons Attribution 4.0 International}
