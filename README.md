@@ -30,13 +30,13 @@ Our results for the 3 x 2 and 5 x 3 salient arrangements are as follows:
 
 | Model Architecture | 3 x 2 Accuracy (%) | 5 x 3 Accuracy (%) |
 |--------------------|---------------|:-------------:|
-| VGG16              |     98.14     |         97.98 |
-| VGG19              |     98.31     |         96.42 |
-| ResNet50           |     96.79     |         96.51 |
-| ResNet101          |     97.89     |         91.91 |
-| DenseNet121        |     98.65     |         96.60 |
-| EfficientNetB0     |     84.04     |         82.26 |
-| InceptionV3        |     98.65     |         94.12 |
+| VGG16              |     98.1     |         98.0 |
+| VGG19              |     98.3     |         96.4 |
+| ResNet50           |     96.8     |         96.5 |
+| ResNet101          |     97.9     |         91.9 |
+| DenseNet121        |     98.6     |         96.6 |
+| EfficientNetB0     |     84.0     |         82.3 |
+| InceptionV3        |     98.6     |         94.1 |
 
 ## GRAD-CAM Results
 
