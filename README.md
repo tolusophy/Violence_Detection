@@ -15,7 +15,7 @@ This repository introduces Salient Image, a method for Violence and Weaponized V
   
   Also, if you use this repository or dataset, please make sure to cite our [paper](https://arxiv.org/abs/2207.12850). Thank you.
   
-    @misc{https://doi.org/10.48550/arxiv.2207.12850,
+    @misc{scvd-salient,
           doi = {10.48550/ARXIV.2207.12850},
           url = {https://arxiv.org/abs/2207.12850},
           author = {Aremu, Toluwani and Zhiyuan, Li and Alameeri, Reem},
