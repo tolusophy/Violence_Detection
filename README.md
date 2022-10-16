@@ -11,7 +11,7 @@ This repository introduces Salient Image, a method for Violence and Weaponized V
   - InceptionV3
   
   1. For the paper, download from [here](https://arxiv.org/abs/2207.12850)
-  2. For the dataset, download from [here](www.kaggle.com/dataset/75806dc0d1bc0fccd0cedaf117979ffa2f2ae5c3c7af3cdd78b9f4cc14d96013)
+  2. For the dataset, download from [here](https://www.kaggle.com/datasets/75806dc0d1bc0fccd0cedaf117979ffa2f2ae5c3c7af3cdd78b9f4cc14d96013)
   
   Also, if you use this repository or dataset, please make sure to cite our [paper](https://arxiv.org/abs/2207.12850). Thank you.
   
