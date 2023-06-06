@@ -53,6 +53,18 @@ Below is a table that shows the layer arrangements of Salient-Classifier archite
 | SaliNet-2b                      | 4.9            | 75.9         |
 | SaliNet-2n                      | 8.0            | 78.8         |
 
+**Comparing our Salient-Classifiers with SOTA on other datasets:**
+| Method              | Model          | MovieFight | HockeyFight | SCVD |
+|---------------------|----------------|------------|-------------|------|
+|                     | C3D            | 100.0      | 96.5        | 82.8 |
+| 3D-CNNs             | I3D            | 100.0      | 98.5        | 85.8 |
+|                     | FGN            | 100.0      | 98.0        | 87.3 |
+|                     | Conv-LSTM      | 100.0      | 97.1        | 77.0 |
+| Conv-LSTM           | Bi-Conv-LSTM   | 100.0      | 98.1        | -    |
+|                     | Sep-Conv-LSTM  | 100.0      | 99.5        | 89.3 |
+|                     | SaliNet-2m     | 100.0      | 100.0       | 88.5 |
+| Salient-Classifiers | SaliNet-2b     | 100.0      | 100.0       | 89.7 |
+|                     | SaliNet-2n     | 100.0      | 100.0       | 90.3 |
 
 
 ## Other Ablations
