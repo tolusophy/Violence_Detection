@@ -66,37 +66,6 @@ Below is a table that shows the layer arrangements of Salient-Classifier archite
 | Salient-Classifiers | SaliNet-2b     | 100.0      | 100.0       | 89.7 |
 |                     | SaliNet-2n     | 100.0      | 100.0       | 90.3 |
 
-
-## Other Ablations
-The following algorithms were originally employed for training and inference on the 5 by 3 and 3 by 2 versions of our datacentric approach:
-  - VGG16
-  - VGG19
-  - ResNet50
-  - ResNet101
-  - DenseNet121
-  - EfficientNetB0
-  - InceptionV3
-
-**Using Grad-CAM for explaining how 5 different models made their inferences on the 3 x 2 and 5 x 3 salient arrangements, we got:**
-
-**In order: DenseNet121, EfficientNetB0, InceptionV3, ResNet50, VGG16**
-
-**3 x 2**
-
-<img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Grad-CAM%20output/densenet121_3x2.jpg" width="161">  <img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Grad-CAM%20output/efficientnet_3x2.jpg" width="161">  <img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Grad-CAM%20output/inception_3x2.jpg" width="161">  <img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Grad-CAM%20output/resnet50_3x2.jpg" width="161">  <img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Grad-CAM%20output/vgg16_3x2.jpg" width="161">
-
-**5 x 3**
-
-<img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Grad-CAM%20output/densenet121_5x3.jpg" width="161">  <img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Grad-CAM%20output/efficientnet_5x3.jpg" width="161">  <img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Grad-CAM%20output/inception_5x3.jpg" width="161">  <img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Grad-CAM%20output/resnet50_5x3.jpg" width="161">  <img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Grad-CAM%20output/vgg16_5x3.jpg" width="161">
-
-
-## VIDEO EVALUATION
-
-**Evaluating our trained models on a CCTV video using VGG16_3x2, Inception_3x2, DenseNet_5x3:**
-
-
-
-
 # USAGE
 ## ENVIRONMENT SETUP
 Conda create and install packages needed by the environment. Use this code:
