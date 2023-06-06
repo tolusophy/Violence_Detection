@@ -68,10 +68,11 @@ Below is a table that shows the layer arrangements of Salient-Classifier archite
 
 # USAGE
 ## ENVIRONMENT SETUP
-Conda create and install packages needed by the environment. Use this code:
-```
-conda env create -f env.yml
-```
+Libraries:
+- Pytorch
+- Numpy
+- OpenCV
+- tqdm
 
 ## PREPROCESSING
 1. Use the ```dataUtils.save_to_frame``` to extract frames from the video dataset. If you want to use the SCVD dataset, download from [here](www.kaggle.com/dataset/75806dc0d1bc0fccd0cedaf117979ffa2f2ae5c3c7af3cdd78b9f4cc14d96013)
@@ -82,16 +83,4 @@ conda env create -f env.yml
 1. For the updated paper, link coming soon
 2. For the dataset, download from [here](https://www.kaggle.com/datasets/75806dc0d1bc0fccd0cedaf117979ffa2f2ae5c3c7af3cdd78b9f4cc14d96013)
   
-  Also, if you use this repository or dataset, please make sure to cite our [paper](https://arxiv.org/abs/2207.12850). Thank you.
-  
-    @misc{scvd-salient,
-          doi = {10.48550/ARXIV.2207.12850},
-          url = {https://arxiv.org/abs/2207.12850},
-          author = {Aremu, Toluwani and Zhiyuan, Li and Alameeri, Reem},
-          title = {Any Object is a Potential Weapon! Weaponized Violence Detection using Salient Image },
-          publisher = {arXiv},
-          year = {2022},
-          copyright = {Creative Commons Attribution 4.0 International}
-    }
-
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/towards-smart-city-security-violence-and/violence-and-weaponized-violence-detection-on)](https://paperswithcode.com/sota/violence-and-weaponized-violence-detection-on?p=towards-smart-city-security-violence-and)
+<!-- Also, if you use this repository or dataset, please make sure to cite our [paper](https://arxiv.org/abs/2207.12850). Thank you. -->
