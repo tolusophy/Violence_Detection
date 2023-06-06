@@ -74,13 +74,24 @@ Libraries:
 - OpenCV
 - tqdm
 
-## PREPROCESSING
-1. Use the ```dataUtils.save_to_frame``` to extract frames from the video dataset. If you want to use the SCVD dataset, download from [here](www.kaggle.com/dataset/75806dc0d1bc0fccd0cedaf117979ffa2f2ae5c3c7af3cdd78b9f4cc14d96013)
-2. Use the ```dataUtils.merge_frames``` to apply your selected configuration of the SALIENT IMAGE
+## TRAINING
+1. In the ```main.py``` file, edit the parameters to match the task you would use it for.
+2. Ensure that the video dataset are arranged accordingly, just like the structure below.
+   - VideoDataset
+      - Train
+        - Class A
+        - Class B
+      - Test
+        - Class A
+        - Class B
+3. Go to the ```Scripts/ssi.py``` file, and edit the class names.
+4. run ```python main.py```
 
 ## NOTE
 
 1. For the updated paper, link coming soon
 2. For the dataset, download from [here](https://www.kaggle.com/datasets/75806dc0d1bc0fccd0cedaf117979ffa2f2ae5c3c7af3cdd78b9f4cc14d96013)
+3. The models evaluated in this paper might not be robust to other datasets when trained on one dataset, i.e., FGN trained on RWF-2000 had 87.3% on the test set but only 57% on Movie-Fights. So a possible future work is to improve the robustness, using datacentric means.
+4. We will be releasing the weights for the different models on SCVD and RWF in the future.
   
 <!-- Also, if you use this repository or dataset, please make sure to cite our [paper](https://arxiv.org/abs/2207.12850). Thank you. -->
