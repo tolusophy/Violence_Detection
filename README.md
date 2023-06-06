@@ -1,16 +1,16 @@
 # SSIVD-Net: A Novel Salient Super Image Classification \& Detection Technique for Weaponized Violence
 
+<img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Result/VGG16_3_2_output.gif" width="270" height="270"> <img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Result/Inception_3_2_output.gif" width="270" height="270"> <img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Result/Densenet_5_3_output%20.gif" width="270" height="270">
+
 # INTRODUCTION
-This repository introduces Salient-Super-Image, a method for Violence and Weaponized Violence Detection from Smart Surveillance Systems (CCTV). The following algorithms were employed for training and inference on the 5 by 3 and 3 by 2 versions of the Salient Image:
-  - VGG16
-  - VGG19
-  - ResNet50
-  - ResNet101
-  - DenseNet121
-  - EfficientNetB0
-  - InceptionV3
+
+Our project focuses on the detection of violence and weaponized violence in CCTV footage using a comprehensive approach. We have introduced the Smart-City CCTV Violence Detection (SCVD) dataset, specifically designed to facilitate the learning of weapon distribution in surveillance videos. To address the complexities of analyzing 3D surveillance video, we propose a novel technique called SSIVD-Net (Salient-Super-Image for Violence Detection). Our method reduces data complexity and dimensionality while improving inference, performance, and explainability through the use of Salient-Super-Image representations. We also introduce the Salient-Classifier, a novel architecture that combines a kernelized approach with a residual learning strategy. Our approach outperforms state-of-the-art models in detecting both weaponized and non-weaponized violence instances. By advancing violence detection and contributing to the understanding of weapon distribution, our research enables smarter and more secure cities while enhancing public safety measures.
+
+<img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Result/sivi.png"> 
+<img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Result/join.png"> 
+
   
-  1. For the paper, download from [here](https://arxiv.org/abs/2207.12850)
+  1. For the updated paper, link coming soon
   2. For the dataset, download from [here](https://www.kaggle.com/datasets/75806dc0d1bc0fccd0cedaf117979ffa2f2ae5c3c7af3cdd78b9f4cc14d96013)
   
   Also, if you use this repository or dataset, please make sure to cite our [paper](https://arxiv.org/abs/2207.12850). Thank you.
@@ -26,19 +26,17 @@ This repository introduces Salient-Super-Image, a method for Violence and Weapon
     }
   
 # RESULTS
-Our results for the 3 x 2 and 5 x 3 salient arrangements are as follows:
 
-| Model Architecture | 3 x 2 Accuracy (%) | 5 x 3 Accuracy (%) |
-|--------------------|---------------|:-------------:|
-| VGG16              |     98.1     |         98.0 |
-| VGG19              |     98.3     |         96.4 |
-| ResNet50           |     96.8     |         96.5 |
-| ResNet101          |     97.9     |         91.9 |
-| DenseNet121        |     98.6     |         96.6 |
-| EfficientNetB0     |     84.0     |         82.3 |
-| InceptionV3        |     98.6     |         94.1 |
 
-## GRAD-CAM Results
+## Other Ablations
+The following algorithms were originally employed for training and inference on the 5 by 3 and 3 by 2 versions of our datacentric approach:
+  - VGG16
+  - VGG19
+  - ResNet50
+  - ResNet101
+  - DenseNet121
+  - EfficientNetB0
+  - InceptionV3
 
 **Using Grad-CAM for explaining how 5 different models made their inferences on the 3 x 2 and 5 x 3 salient arrangements, we got:**
 
@@ -58,11 +56,7 @@ Our results for the 3 x 2 and 5 x 3 salient arrangements are as follows:
 **Evaluating our trained models on a CCTV video using VGG16_3x2, Inception_3x2, DenseNet_5x3:**
 
 
-<img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Result/VGG16_3_2_output.gif" width="810">
 
-<img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Result/Inception_3_2_output.gif" width="810">
-
-<img src="https://github.com/Ti-Oluwanimi/Violence_Detection_Main/blob/main/Result/Densenet_5_3_output%20.gif" width="810">
 
 # USAGE
 ## ENVIRONMENT SETUP
