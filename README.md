@@ -89,8 +89,8 @@ Libraries:
 
 ## NOTE
 
-1. For the updated paper, link coming soon
-2. For the dataset, download from [here](https://www.kaggle.com/datasets/75806dc0d1bc0fccd0cedaf117979ffa2f2ae5c3c7af3cdd78b9f4cc14d96013)
+1. For the updated paper, [link](https://www.researchsquare.com/article/rs-3024402/v1)
+2. For the dataset, download from [here](https://www.kaggle.com/datasets/75806dc0d1bc0fccd0cedaf117979ffa2f2ae5c3c7af3cdd78b9f4cc14d96013). If you use our dataset or code, please cite our paper and like our repository.
 3. The models evaluated in this paper might not be robust to other datasets when trained on one dataset, i.e., FGN trained on RWF-2000 had 87.3% on the test set but only 57% on Movie-Fights. So a possible future work is to improve the robustness, using datacentric means.
 4. We will be releasing the weights for the different models on SCVD and RWF in the future.
   
