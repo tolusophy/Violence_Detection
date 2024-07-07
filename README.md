@@ -92,12 +92,23 @@ Libraries:
 1. For the updated paper, [link](https://www.researchsquare.com/article/rs-3024402/v1)
 2. For the dataset, download from [here](https://www.kaggle.com/datasets/75806dc0d1bc0fccd0cedaf117979ffa2f2ae5c3c7af3cdd78b9f4cc14d96013). A preprocessed version can be downloaded [here](https://drive.google.com/file/d/16Uk5AAWo6UorGyQ_YaUUn6CWxPxMHE0K/view?usp=sharing). If you use our dataset or code, please cite our paper and like our repository.
 ```
-@article{Aremu_Li_2023,
-title={SSIVD-Net: A Novel Salient Super Image Classification & Detection Technique for Weaponized Violence},
-url={https://doi.org/10.21203/rs.3.rs-3024402/v3},
-DOI={10.21203/rs.3.rs-3024402/v3},
-journal={Research Square},
-author={Aremu, Toluwani and Li, Zhiyuan and Alameeri, Reem and Khan, Mustaqeem and Saddik, Abdulmotaleb El},
-year={2023}
+BIB: @InProceedings{10.1007/978-3-031-62269-4_2,
+author="Aremu, Toluwani
+and Zhiyuan, Li
+and Alameeri, Reem
+and Khan, Mustaqeem
+and Saddik, Abdulmotaleb El",
+editor="Arai, Kohei",
+title="SSIVD-Net: A Novel Salient Super Image Classification and Detection Technique for Weaponized Violence",
+booktitle="Intelligent Computing",
+year="2024",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="16--35",
+isbn="978-3-031-62269-4"
 }
+
+Springer Nature: Aremu, T., Zhiyuan, L., Alameeri, R., Khan, M., Saddik, A.E. (2024). SSIVD-Net: A Novel Salient Super Image Classification and Detection Technique for Weaponized Violence. In: Arai, K. (eds) Intelligent Computing. SAI 2024. Lecture Notes in Networks and Systems, vol 1018. Springer, Cham. https://doi.org/10.1007/978-3-031-62269-4_2
+
+APA: Aremu, T., Zhiyuan, L., Alameeri, R., Khan, M., & Saddik, A. E. (2024, June). SSIVD-Net: A Novel Salient Super Image Classification and Detection Technique for Weaponized Violence. In Science and Information Conference (pp. 16-35). Cham: Springer Nature Switzerland.
 ```
