@@ -109,10 +109,11 @@ BIB: @InProceedings{
          isbn="978-3-031-62269-4"
 }
 
-Springer Nature: Aremu, T., Zhiyuan, L., Alameeri, R., Khan, M., Saddik, A.E. (2024). SSIVD-Net: A Novel Salient Super Image Classification
-and Detection Technique for Weaponized Violence. In: Arai, K. (eds) Intelligent Computing. SAI 2024. Lecture Notes in Networks and Systems,
-vol 1018. Springer, Cham. https://doi.org/10.1007/978-3-031-62269-4_2.
+Springer Nature: Aremu, T., Zhiyuan, L., Alameeri, R., Khan, M., Saddik, A.E. (2024). SSIVD-Net: A Novel Salient Super
+Image Classification and Detection Technique for Weaponized Violence. In: Arai, K. (eds) Intelligent Computing. SAI 2024.
+Lecture Notes in Networks and Systems, vol 1018. Springer, Cham. https://doi.org/10.1007/978-3-031-62269-4_2.
 
-APA: Aremu, T., Zhiyuan, L., Alameeri, R., Khan, M., & Saddik, A. E. (2024, June). SSIVD-Net: A Novel Salient Super Image Classification and
-Detection Technique for Weaponized Violence. In Science and Information Conference (pp. 16-35). Cham: Springer Nature Switzerland.
+APA: Aremu, T., Zhiyuan, L., Alameeri, R., Khan, M., & Saddik, A. E. (2024, June). SSIVD-Net: A Novel Salient Super Image
+Classification and Detection Technique for Weaponized Violence. In Science and Information Conference (pp. 16-35).
+Cham: Springer Nature Switzerland.
 ```
